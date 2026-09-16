@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.4](https://github.com/microsoft/kiota-python/compare/microsoft-kiota-http-v1.12.3...microsoft-kiota-http-v1.12.4) (2026-09-16)
+
+
+### Bug Fixes
+
+* **http:** close the wrapped async transport ([0590bc3](https://github.com/microsoft/kiota-python/commit/0590bc39730e87d3a0f2f64574b5eefa3bebbcbd))
+* **http:** close the wrapped async transport ([09acb74](https://github.com/microsoft/kiota-python/commit/09acb746beec27822d6665e0da5f78c458d36218))
+* **http:** end redirect and CAE retry spans ([ac310b4](https://github.com/microsoft/kiota-python/commit/ac310b435899d2c3295989303b706f606cd93682))
+* **http:** end redirect and CAE retry spans ([ee1682a](https://github.com/microsoft/kiota-python/commit/ee1682a686ceb9587c6ee1fa9ff846d0dc7014c5)), closes [#508](https://github.com/microsoft/kiota-python/issues/508)
+
 ## [1.12.3](https://github.com/microsoft/kiota-python/compare/microsoft-kiota-http-v1.12.2...microsoft-kiota-http-v1.12.3) (2026-09-11)
 
 
